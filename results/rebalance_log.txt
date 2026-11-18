@@ -1,0 +1,483 @@
+Rebalance 2020-01-02:
+  - Holding XLK (Technology): 6-month return +17.3%, beating SPY by +7.6%, vol_ratio 0.51x — growth regime.
+  - Holding XLV (Health Care): 6-month return +9.8%, beating SPY by +0.0%, vol_ratio 0.57x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +8.3%, trailing SPY by 1.5%, vol_ratio 0.54x — growth regime.
+
+Rebalance 2020-01-31:
+  - Holding XLU (Utilities): 6-month return +16.5%, beating SPY by +6.3%, vol_ratio 0.67x — growth regime.
+  - Holding XLK (Technology): 6-month return +19.4%, beating SPY by +9.2%, vol_ratio 1.10x — growth regime.
+  - Holding XLP (Consumer Staples): 6-month return +8.2%, trailing SPY by 2.0%, vol_ratio 0.87x — growth regime.
+
+Rebalance 2020-02-28:
+  - Sold XLP (Consumer Staples): vol_ratio 1.68x its 1-year average, 6-month return -3.2% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLU (Utilities): vol_ratio 1.81x its 1-year average, 6-month return +1.6% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLC (Communication Services): 6-month return +4.4%, beating SPY by +0.9%, vol_ratio 1.50x — top-ranked on momentum and relative strength.
+  - Holding XLK (Technology): 6-month return +13.7%, beating SPY by +10.2%, vol_ratio 1.74x — top-ranked on momentum and relative strength.
+  - Holding XLV (Health Care): 6-month return +4.7%, beating SPY by +1.1%, vol_ratio 1.69x — top-ranked on momentum and relative strength.
+
+Rebalance 2020-03-31:
+  - Holding XLK (Technology): 6-month return +0.6%, beating SPY by +12.9%, vol_ratio 3.02x — top-ranked on momentum and relative strength.
+
+Rebalance 2020-04-30:
+  - Holding XLV (Health Care): 6-month return +7.4%, beating SPY by +10.5%, vol_ratio 1.16x — growth regime.
+  - Holding XLK (Technology): 6-month return +10.8%, beating SPY by +13.9%, vol_ratio 1.21x — top-ranked on momentum and relative strength.
+  - Holding XLC (Communication Services): 6-month return +0.4%, beating SPY by +3.6%, vol_ratio 1.17x — top-ranked on momentum and relative strength.
+
+Rebalance 2020-05-29:
+  - Holding XLK (Technology): 6-month return +12.4%, beating SPY by +14.4%, vol_ratio 0.60x — growth regime.
+  - Holding XLV (Health Care): 6-month return +5.3%, beating SPY by +7.4%, vol_ratio 0.62x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +3.7%, beating SPY by +5.7%, vol_ratio 0.66x — top-ranked on momentum and relative strength.
+
+Rebalance 2020-06-30:
+  - Sold XLV (Health Care): vol_ratio 0.92x its 1-year average, 6-month return -0.7% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLK (Technology): 6-month return +15.3%, beating SPY by +18.2%, vol_ratio 0.79x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +1.4%, beating SPY by +4.4%, vol_ratio 0.91x — top-ranked on momentum and relative strength.
+  - Holding XLP (Consumer Staples): 6-month return -5.5%, trailing SPY by 2.6%, vol_ratio 0.78x — top-ranked on momentum and relative strength.
+
+Rebalance 2020-07-31:
+  - Sold XLK (Technology): vol_ratio 0.61x its 1-year average, 6-month return +16.8% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLC (Communication Services): 6-month return +8.4%, beating SPY by +5.8%, vol_ratio 0.52x — growth regime.
+  - Holding XLV (Health Care): 6-month return +7.4%, beating SPY by +4.9%, vol_ratio 0.46x — growth regime.
+  - Holding XLP (Consumer Staples): 6-month return +0.6%, trailing SPY by 1.9%, vol_ratio 0.39x — top-ranked on momentum and relative strength.
+
+Rebalance 2020-08-31:
+  - Holding XLK (Technology): 6-month return +38.5%, beating SPY by +20.9%, vol_ratio 0.42x — growth regime.
+  - Holding XLV (Health Care): 6-month return +15.6%, trailing SPY by 2.0%, vol_ratio 0.30x — growth regime.
+  - Holding XLB (Materials): 6-month return +17.0%, trailing SPY by 0.6%, vol_ratio 0.37x — growth regime.
+
+Rebalance 2020-09-30:
+  - Sold XLV (Health Care): vol_ratio 0.70x its 1-year average, 6-month return +24.8% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLP (Consumer Staples): vol_ratio 0.64x its 1-year average, 6-month return +21.4% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLC (Communication Services): vol_ratio 0.81x its 1-year average, 6-month return +40.4% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLK (Technology): 6-month return +53.2%, beating SPY by +16.0%, vol_ratio 0.95x — growth regime.
+  - Holding XLI (Industrials): 6-month return +37.8%, beating SPY by +0.6%, vol_ratio 0.64x — growth regime.
+  - Holding XLB (Materials): 6-month return +49.5%, beating SPY by +12.3%, vol_ratio 0.74x — growth regime.
+
+Rebalance 2020-10-30:
+  - Sold XLK (Technology): vol_ratio 0.68x its 1-year average, 6-month return +23.7% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLB (Materials): 6-month return +25.2%, beating SPY by +9.1%, vol_ratio 0.58x — growth regime.
+  - Holding XLI (Industrials): 6-month return +24.4%, beating SPY by +8.3%, vol_ratio 0.59x — growth regime.
+  - Holding XLU (Utilities): 6-month return +12.7%, trailing SPY by 3.4%, vol_ratio 0.43x — growth regime.
+
+Rebalance 2020-11-30:
+  - Sold XLU (Utilities): vol_ratio 0.55x its 1-year average, 6-month return +5.1% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLI (Industrials): 6-month return +29.2%, beating SPY by +10.7%, vol_ratio 0.63x — growth regime.
+  - Holding XLK (Technology): 6-month return +25.5%, beating SPY by +7.0%, vol_ratio 0.57x — growth regime.
+  - Holding XLB (Materials): 6-month return +26.2%, beating SPY by +7.7%, vol_ratio 0.71x — growth regime.
+
+Rebalance 2020-12-31:
+  - Sold XLB (Materials): vol_ratio 0.37x its 1-year average, 6-month return +27.1% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLI (Industrials): 6-month return +29.4%, beating SPY by +8.7%, vol_ratio 0.28x — growth regime.
+  - Holding XLF (Financials): 6-month return +29.7%, beating SPY by +9.0%, vol_ratio 0.31x — growth regime.
+  - Holding XLK (Technology): 6-month return +24.1%, beating SPY by +3.3%, vol_ratio 0.31x — growth regime.
+
+Rebalance 2021-01-29:
+  - Holding XLK (Technology): 6-month return +20.2%, beating SPY by +5.0%, vol_ratio 0.53x — growth regime.
+  - Holding XLF (Financials): 6-month return +21.8%, beating SPY by +6.7%, vol_ratio 0.55x — growth regime.
+  - Holding XLI (Industrials): 6-month return +18.7%, beating SPY by +3.5%, vol_ratio 0.50x — growth regime.
+
+Rebalance 2021-02-26:
+  - Sold XLK (Technology): vol_ratio 0.58x its 1-year average, 6-month return +7.6% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLF (Financials): 6-month return +31.5%, beating SPY by +21.1%, vol_ratio 0.46x — growth regime.
+  - Holding XLI (Industrials): 6-month return +17.4%, beating SPY by +7.1%, vol_ratio 0.45x — growth regime.
+  - Holding XLE (Energy): 6-month return +38.8%, beating SPY by +28.5%, vol_ratio 0.59x — growth regime.
+
+Rebalance 2021-03-31:
+  - Holding XLE (Energy): 6-month return +67.3%, beating SPY by +47.1%, vol_ratio 0.69x — growth regime.
+  - Holding XLF (Financials): 6-month return +44.8%, beating SPY by +24.6%, vol_ratio 0.60x — growth regime.
+  - Holding XLI (Industrials): 6-month return +28.5%, beating SPY by +8.3%, vol_ratio 0.70x — growth regime.
+
+Rebalance 2021-04-30:
+  - Holding XLF (Financials): 6-month return +55.1%, beating SPY by +26.4%, vol_ratio 0.56x — growth regime.
+  - Holding XLE (Energy): 6-month return +82.5%, beating SPY by +53.8%, vol_ratio 0.61x — growth regime.
+  - Holding XLI (Industrials): 6-month return +37.1%, beating SPY by +8.4%, vol_ratio 0.48x — growth regime.
+
+Rebalance 2021-05-28:
+  - Sold XLI (Industrials): vol_ratio 0.78x its 1-year average, 6-month return +19.0% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLE (Energy): 6-month return +35.8%, beating SPY by +19.1%, vol_ratio 0.70x — growth regime.
+  - Holding XLF (Financials): 6-month return +34.3%, beating SPY by +17.6%, vol_ratio 0.63x — growth regime.
+  - Holding XLB (Materials): 6-month return +23.4%, beating SPY by +6.7%, vol_ratio 0.78x — growth regime.
+
+Rebalance 2021-06-30:
+  - Sold XLB (Materials): vol_ratio 0.73x its 1-year average, 6-month return +16.7% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLE (Energy): 6-month return +46.2%, beating SPY by +30.2%, vol_ratio 0.75x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +20.6%, beating SPY by +4.6%, vol_ratio 0.60x — growth regime.
+  - Holding XLF (Financials): 6-month return +27.6%, beating SPY by +11.6%, vol_ratio 0.89x — growth regime.
+
+Rebalance 2021-07-30:
+  - Sold XLF (Financials): vol_ratio 1.07x its 1-year average, 6-month return +27.2% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLRE (Real Estate): 6-month return +28.3%, beating SPY by +9.0%, vol_ratio 0.80x — growth regime.
+  - Holding XLE (Energy): 6-month return +28.2%, beating SPY by +9.0%, vol_ratio 0.84x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +23.6%, beating SPY by +4.4%, vol_ratio 0.81x — growth regime.
+
+Rebalance 2021-08-31:
+  - Sold XLE (Energy): vol_ratio 0.77x its 1-year average, 6-month return -0.9% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLK (Technology): 6-month return +23.2%, beating SPY by +4.1%, vol_ratio 0.55x — growth regime.
+  - Holding XLRE (Real Estate): 6-month return +32.1%, beating SPY by +12.9%, vol_ratio 0.63x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +19.6%, beating SPY by +0.5%, vol_ratio 0.54x — growth regime.
+
+Rebalance 2021-09-30:
+  - Holding XLK (Technology): 6-month return +10.6%, beating SPY by +2.8%, vol_ratio 0.83x — growth regime.
+  - Holding XLRE (Real Estate): 6-month return +12.1%, beating SPY by +4.3%, vol_ratio 0.92x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +7.8%, trailing SPY by 0.0%, vol_ratio 0.76x — growth regime.
+
+Rebalance 2021-10-29:
+  - Holding XLE (Energy): 6-month return +15.8%, beating SPY by +5.3%, vol_ratio 0.58x — growth regime.
+  - Holding XLK (Technology): 6-month return +16.4%, beating SPY by +5.8%, vol_ratio 0.80x — growth regime.
+  - Holding XLF (Financials): 6-month return +11.4%, beating SPY by +0.9%, vol_ratio 0.76x — growth regime.
+
+Rebalance 2021-11-30:
+  - Sold XLF (Financials): vol_ratio 0.99x its 1-year average, 6-month return -0.0% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLRE (Real Estate): vol_ratio 1.14x its 1-year average, 6-month return +7.5% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLC (Communication Services): vol_ratio 1.01x its 1-year average, 6-month return -3.8% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLV (Health Care): 6-month return +7.7%, trailing SPY by 1.4%, vol_ratio 0.89x — growth regime.
+  - Holding XLK (Technology): 6-month return +22.1%, beating SPY by +13.0%, vol_ratio 1.02x — growth regime.
+  - Holding XLE (Energy): 6-month return +1.1%, trailing SPY by 8.0%, vol_ratio 0.96x — top-ranked on momentum and relative strength.
+
+Rebalance 2021-12-31:
+  - Holding XLU (Utilities): 6-month return +13.5%, beating SPY by +3.3%, vol_ratio 0.77x — growth regime.
+  - Holding XLRE (Real Estate): 6-month return +17.5%, beating SPY by +7.3%, vol_ratio 0.99x — growth regime.
+  - Holding XLK (Technology): 6-month return +16.4%, beating SPY by +6.2%, vol_ratio 1.42x — top-ranked on momentum and relative strength.
+
+Rebalance 2022-01-31:
+  - Holding XLE (Energy): 6-month return +37.9%, beating SPY by +34.4%, vol_ratio 0.92x — growth regime.
+  - Holding XLP (Consumer Staples): 6-month return +8.1%, beating SPY by +4.6%, vol_ratio 0.94x — growth regime.
+  - Holding XLF (Financials): 6-month return +7.9%, beating SPY by +4.4%, vol_ratio 1.11x — growth regime.
+
+Rebalance 2022-02-28:
+  - Sold XLK (Technology): vol_ratio 1.53x its 1-year average, 6-month return -2.1% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLV (Health Care): vol_ratio 1.44x its 1-year average, 6-month return -2.8% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLP (Consumer Staples): vol_ratio 1.48x its 1-year average, 6-month return +5.7% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLRE (Real Estate): vol_ratio 1.44x its 1-year average, 6-month return -2.4% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLE (Energy): 6-month return +46.8%, beating SPY by +49.1%, vol_ratio 0.96x — growth regime.
+  - Holding XLU (Utilities): 6-month return +0.7%, beating SPY by +3.0%, vol_ratio 1.37x — top-ranked on momentum and relative strength.
+  - Holding XLF (Financials): 6-month return -0.3%, beating SPY by +2.0%, vol_ratio 1.23x — top-ranked on momentum and relative strength.
+
+Rebalance 2022-03-31:
+  - Sold XLF (Financials): vol_ratio 1.42x its 1-year average, 6-month return +3.0% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLU (Utilities): 6-month return +18.3%, beating SPY by +12.3%, vol_ratio 0.97x — growth regime.
+  - Holding XLE (Energy): 6-month return +50.1%, beating SPY by +44.1%, vol_ratio 1.28x — top-ranked on momentum and relative strength.
+  - Holding XLB (Materials): 6-month return +12.4%, beating SPY by +6.5%, vol_ratio 1.29x — top-ranked on momentum and relative strength.
+
+Rebalance 2022-04-29:
+  - Sold XLB (Materials): vol_ratio 1.21x its 1-year average, 6-month return +0.3% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLE (Energy): 6-month return +32.8%, beating SPY by +42.4%, vol_ratio 1.09x — growth regime.
+  - Holding XLP (Consumer Staples): 6-month return +10.1%, beating SPY by +19.6%, vol_ratio 1.44x — top-ranked on momentum and relative strength.
+  - Holding XLU (Utilities): 6-month return +7.4%, beating SPY by +16.9%, vol_ratio 1.25x — top-ranked on momentum and relative strength.
+
+Rebalance 2022-05-31:
+  - Sold XLP (Consumer Staples): vol_ratio 2.01x its 1-year average, 6-month return +4.4% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLU (Utilities): 6-month return +11.3%, beating SPY by +21.8%, vol_ratio 1.13x — growth regime.
+  - Holding XLE (Energy): 6-month return +59.5%, beating SPY by +70.1%, vol_ratio 1.45x — top-ranked on momentum and relative strength.
+  - Holding XLV (Health Care): 6-month return +0.6%, beating SPY by +11.2%, vol_ratio 1.41x — top-ranked on momentum and relative strength.
+
+Rebalance 2022-06-30:
+  - Sold XLV (Health Care): vol_ratio 1.51x its 1-year average, 6-month return -8.5% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLP (Consumer Staples): 6-month return -4.9%, beating SPY by +15.5%, vol_ratio 1.31x — top-ranked on momentum and relative strength.
+  - Holding XLE (Energy): 6-month return +31.1%, beating SPY by +51.5%, vol_ratio 1.52x — top-ranked on momentum and relative strength.
+  - Holding XLU (Utilities): 6-month return +0.1%, beating SPY by +20.5%, vol_ratio 1.68x — top-ranked on momentum and relative strength.
+
+Rebalance 2022-07-29:
+  - Sold XLU (Utilities): vol_ratio 1.32x its 1-year average, 6-month return +11.7% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLP (Consumer Staples): 6-month return +0.8%, beating SPY by +4.5%, vol_ratio 0.71x — top-ranked on momentum and relative strength.
+  - Holding XLE (Energy): 6-month return +21.5%, beating SPY by +25.2%, vol_ratio 1.10x — growth regime.
+  - Holding XLV (Health Care): 6-month return +4.3%, beating SPY by +8.1%, vol_ratio 1.03x — top-ranked on momentum and relative strength.
+
+Rebalance 2022-08-31:
+  - Sold XLV (Health Care): vol_ratio 0.88x its 1-year average, 6-month return -4.2% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLU (Utilities): 6-month return +10.7%, beating SPY by +19.8%, vol_ratio 0.75x — growth regime.
+  - Holding XLP (Consumer Staples): 6-month return -1.7%, beating SPY by +7.4%, vol_ratio 0.83x — top-ranked on momentum and relative strength.
+  - Holding XLE (Energy): 6-month return +12.7%, beating SPY by +21.8%, vol_ratio 0.94x — growth regime.
+
+Rebalance 2022-09-30:
+  - Sold XLU (Utilities): vol_ratio 1.43x its 1-year average, 6-month return -10.7% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLE (Energy): 6-month return -3.7%, beating SPY by +16.6%, vol_ratio 1.16x — top-ranked on momentum and relative strength.
+  - Holding XLP (Consumer Staples): 6-month return -10.8%, beating SPY by +9.4%, vol_ratio 1.17x — top-ranked on momentum and relative strength.
+  - Holding XLI (Industrials): 6-month return -18.8%, beating SPY by +1.4%, vol_ratio 1.16x — top-ranked on momentum and relative strength.
+
+Rebalance 2022-10-31:
+  - Sold XLP (Consumer Staples): vol_ratio 1.13x its 1-year average, 6-month return -3.7% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLE (Energy): 6-month return +20.5%, beating SPY by +26.5%, vol_ratio 0.88x — growth regime.
+  - Holding XLV (Health Care): 6-month return +3.4%, beating SPY by +9.4%, vol_ratio 1.16x — top-ranked on momentum and relative strength.
+  - Holding XLI (Industrials): 6-month return -0.1%, beating SPY by +5.9%, vol_ratio 1.26x — top-ranked on momentum and relative strength.
+
+Rebalance 2022-11-30:
+  - Sold XLE (Energy): vol_ratio 0.93x its 1-year average, 6-month return +5.1% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLI (Industrials): 6-month return +9.1%, beating SPY by +8.7%, vol_ratio 0.97x — growth regime.
+  - Holding XLV (Health Care): 6-month return +7.5%, beating SPY by +7.2%, vol_ratio 0.90x — growth regime.
+  - Holding XLP (Consumer Staples): 6-month return +6.5%, beating SPY by +6.1%, vol_ratio 0.89x — growth regime.
+
+Rebalance 2022-12-30:
+  - Holding XLF (Financials): 6-month return +8.5%, beating SPY by +7.3%, vol_ratio 0.67x — growth regime.
+  - Holding XLE (Energy): 6-month return +23.1%, beating SPY by +21.9%, vol_ratio 0.83x — growth regime.
+  - Holding XLI (Industrials): 6-month return +12.5%, beating SPY by +11.4%, vol_ratio 0.81x — growth regime.
+
+Rebalance 2023-01-31:
+  - Sold XLV (Health Care): vol_ratio 0.67x its 1-year average, 6-month return +2.3% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLI (Industrials): vol_ratio 0.86x its 1-year average, 6-month return +7.4% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLP (Consumer Staples): vol_ratio 0.93x its 1-year average, 6-month return -0.9% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLF (Financials): 6-month return +10.6%, beating SPY by +10.8%, vol_ratio 0.67x — growth regime.
+  - Holding XLE (Energy): 6-month return +19.6%, beating SPY by +19.8%, vol_ratio 0.73x — growth regime.
+  - Holding XLB (Materials): 6-month return +10.6%, beating SPY by +10.7%, vol_ratio 0.80x — growth regime.
+
+Rebalance 2023-02-28:
+  - Sold XLE (Energy): vol_ratio 0.78x its 1-year average, 6-month return +3.2% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLF (Financials): 6-month return +7.2%, beating SPY by +8.5%, vol_ratio 0.53x — growth regime.
+  - Holding XLI (Industrials): 6-month return +6.7%, beating SPY by +8.1%, vol_ratio 0.66x — growth regime.
+  - Holding XLB (Materials): 6-month return +6.0%, beating SPY by +7.3%, vol_ratio 0.67x — growth regime.
+
+Rebalance 2023-03-31:
+  - Holding XLK (Technology): 6-month return +25.3%, beating SPY by +11.5%, vol_ratio 0.65x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +20.2%, beating SPY by +6.4%, vol_ratio 0.75x — growth regime.
+  - Holding XLI (Industrials): 6-month return +21.6%, beating SPY by +7.8%, vol_ratio 0.93x — growth regime.
+
+Rebalance 2023-04-28:
+  - Holding XLK (Technology): 6-month return +20.7%, beating SPY by +10.9%, vol_ratio 0.57x — growth regime.
+  - Holding XLP (Consumer Staples): 6-month return +9.5%, trailing SPY by 0.2%, vol_ratio 0.46x — growth regime.
+  - Holding XLB (Materials): 6-month return +9.7%, trailing SPY by 0.1%, vol_ratio 0.64x — growth regime.
+
+Rebalance 2023-05-31:
+  - Holding XLC (Communication Services): 6-month return +26.6%, beating SPY by +20.2%, vol_ratio 0.55x — growth regime.
+  - Holding XLV (Health Care): 6-month return -5.3%, trailing SPY by 11.8%, vol_ratio 0.54x — top-ranked on momentum and relative strength.
+  - Holding XLI (Industrials): 6-month return -1.8%, trailing SPY by 8.2%, vol_ratio 0.69x — top-ranked on momentum and relative strength.
+
+Rebalance 2023-06-30:
+  - Holding XLK (Technology): 6-month return +43.8%, beating SPY by +25.2%, vol_ratio 0.66x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +40.0%, beating SPY by +21.5%, vol_ratio 0.50x — growth regime.
+  - Holding XLF (Financials): 6-month return +0.6%, trailing SPY by 18.0%, vol_ratio 0.63x — top-ranked on momentum and relative strength.
+
+Rebalance 2023-07-31:
+  - Sold XLF (Financials): vol_ratio 0.53x its 1-year average, 6-month return -1.6% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLV (Health Care): vol_ratio 0.84x its 1-year average, 6-month return +1.8% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLP (Consumer Staples): vol_ratio 0.69x its 1-year average, 6-month return +5.2% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLB (Materials): vol_ratio 0.66x its 1-year average, 6-month return +3.7% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLK (Technology): 6-month return +31.0%, beating SPY by +17.3%, vol_ratio 0.56x — growth regime.
+  - Holding XLI (Industrials): 6-month return +10.1%, trailing SPY by 3.6%, vol_ratio 0.50x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +25.0%, beating SPY by +11.3%, vol_ratio 0.64x — growth regime.
+
+Rebalance 2023-08-31:
+  - Sold XLK (Technology): vol_ratio 0.77x its 1-year average, 6-month return +28.6% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLE (Energy): 6-month return +5.3%, trailing SPY by 8.8%, vol_ratio 0.51x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +26.9%, beating SPY by +12.9%, vol_ratio 0.68x — growth regime.
+  - Holding XLI (Industrials): 6-month return +6.4%, trailing SPY by 7.7%, vol_ratio 0.63x — growth regime.
+
+Rebalance 2023-09-29:
+  - Holding XLC (Communication Services): 6-month return +15.8%, beating SPY by +9.1%, vol_ratio 0.58x — growth regime.
+  - Holding XLK (Technology): 6-month return +10.6%, beating SPY by +3.9%, vol_ratio 0.63x — growth regime.
+  - Holding XLF (Financials): 6-month return +5.2%, trailing SPY by 1.4%, vol_ratio 0.61x — growth regime.
+
+Rebalance 2023-10-31:
+  - Sold XLI (Industrials): vol_ratio 1.06x its 1-year average, 6-month return -0.3% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLC (Communication Services): vol_ratio 1.10x its 1-year average, 6-month return +10.6% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLK (Technology): 6-month return +10.2%, beating SPY by +7.6%, vol_ratio 0.74x — growth regime.
+  - Holding XLF (Financials): 6-month return +1.0%, trailing SPY by 1.5%, vol_ratio 0.93x — top-ranked on momentum and relative strength.
+  - Holding XLE (Energy): 6-month return +7.5%, beating SPY by +5.0%, vol_ratio 0.98x — growth regime.
+
+Rebalance 2023-11-30:
+  - Sold XLE (Energy): vol_ratio 0.85x its 1-year average, 6-month return +10.9% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLF (Financials): 6-month return +12.8%, beating SPY by +3.9%, vol_ratio 0.72x — growth regime.
+  - Holding XLK (Technology): 6-month return +12.0%, beating SPY by +3.1%, vol_ratio 0.70x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +11.1%, beating SPY by +2.1%, vol_ratio 0.60x — growth regime.
+
+Rebalance 2023-12-29:
+  - Holding XLF (Financials): 6-month return +12.6%, beating SPY by +4.6%, vol_ratio 0.72x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +12.2%, beating SPY by +4.2%, vol_ratio 0.63x — growth regime.
+  - Holding XLK (Technology): 6-month return +11.2%, beating SPY by +3.2%, vol_ratio 0.63x — growth regime.
+
+Rebalance 2024-01-31:
+  - Sold XLK (Technology): vol_ratio 1.00x its 1-year average, 6-month return +11.1% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLF (Financials): 6-month return +10.7%, beating SPY by +4.2%, vol_ratio 0.68x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +11.0%, beating SPY by +4.4%, vol_ratio 0.81x — growth regime.
+  - Holding XLV (Health Care): 6-month return +6.1%, trailing SPY by 0.5%, vol_ratio 0.61x — growth regime.
+
+Rebalance 2024-02-29:
+  - Holding XLF (Financials): 6-month return +18.1%, beating SPY by +4.1%, vol_ratio 0.69x — growth regime.
+  - Holding XLK (Technology): 6-month return +19.8%, beating SPY by +5.8%, vol_ratio 1.02x — growth regime.
+  - Holding XLI (Industrials): 6-month return +12.9%, trailing SPY by 1.1%, vol_ratio 0.80x — growth regime.
+
+Rebalance 2024-03-28:
+  - Sold XLV (Health Care): vol_ratio 0.79x its 1-year average, 6-month return +15.4% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLI (Industrials): vol_ratio 0.78x its 1-year average, 6-month return +25.2% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLF (Financials): 6-month return +27.8%, beating SPY by +4.2%, vol_ratio 0.73x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +25.9%, beating SPY by +2.2%, vol_ratio 0.77x — growth regime.
+  - Holding XLK (Technology): 6-month return +28.9%, beating SPY by +5.2%, vol_ratio 1.04x — growth regime.
+
+Rebalance 2024-04-30:
+  - Holding XLF (Financials): 6-month return +29.5%, beating SPY by +6.3%, vol_ratio 1.01x — growth regime.
+  - Holding XLI (Industrials): 6-month return +27.1%, beating SPY by +4.0%, vol_ratio 0.98x — growth regime.
+  - Holding XLB (Materials): 6-month return +19.5%, trailing SPY by 3.6%, vol_ratio 0.91x — growth regime.
+
+Rebalance 2024-05-31:
+  - Holding XLC (Communication Services): 6-month return +19.3%, beating SPY by +2.4%, vol_ratio 0.61x — growth regime.
+  - Holding XLU (Utilities): 6-month return +18.4%, beating SPY by +1.6%, vol_ratio 0.90x — growth regime.
+  - Holding XLI (Industrials): 6-month return +17.6%, beating SPY by +0.8%, vol_ratio 0.95x — growth regime.
+
+Rebalance 2024-06-28:
+  - Holding XLC (Communication Services): 6-month return +18.1%, beating SPY by +3.2%, vol_ratio 0.61x — growth regime.
+  - Holding XLF (Financials): 6-month return +10.2%, trailing SPY by 4.8%, vol_ratio 0.87x — growth regime.
+  - Holding XLK (Technology): 6-month return +17.7%, beating SPY by +2.8%, vol_ratio 1.03x — growth regime.
+
+Rebalance 2024-07-31:
+  - Holding XLU (Utilities): 6-month return +20.1%, beating SPY by +7.2%, vol_ratio 0.84x — growth regime.
+  - Holding XLF (Financials): 6-month return +12.3%, trailing SPY by 0.6%, vol_ratio 1.09x — growth regime.
+  - Holding XLB (Materials): 6-month return +11.5%, trailing SPY by 1.4%, vol_ratio 1.06x — growth regime.
+
+Rebalance 2024-08-30:
+  - Holding XLU (Utilities): 6-month return +25.6%, beating SPY by +15.0%, vol_ratio 0.72x — growth regime.
+  - Holding XLP (Consumer Staples): 6-month return +12.5%, beating SPY by +1.9%, vol_ratio 1.00x — growth regime.
+  - Holding XLRE (Real Estate): 6-month return +12.0%, beating SPY by +1.4%, vol_ratio 0.90x — growth regime.
+
+Rebalance 2024-09-30:
+  - Sold XLK (Technology): vol_ratio 1.30x its 1-year average, 6-month return +8.5% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLF (Financials): vol_ratio 1.00x its 1-year average, 6-month return +9.0% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLI (Industrials): vol_ratio 1.11x its 1-year average, 6-month return +9.1% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLB (Materials): vol_ratio 1.18x its 1-year average, 6-month return +5.0% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLC (Communication Services): vol_ratio 0.91x its 1-year average, 6-month return +10.5% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLU (Utilities): 6-month return +25.6%, beating SPY by +15.1%, vol_ratio 0.84x — growth regime.
+  - Holding XLRE (Real Estate): 6-month return +17.0%, beating SPY by +6.4%, vol_ratio 0.60x — growth regime.
+  - Holding XLP (Consumer Staples): 6-month return +11.0%, beating SPY by +0.4%, vol_ratio 0.81x — growth regime.
+
+Rebalance 2024-10-31:
+  - Sold XLP (Consumer Staples): vol_ratio 0.87x its 1-year average, 6-month return +7.3% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLRE (Real Estate): 6-month return +19.6%, beating SPY by +6.3%, vol_ratio 0.87x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +16.6%, beating SPY by +3.3%, vol_ratio 0.73x — growth regime.
+  - Holding XLU (Utilities): 6-month return +19.5%, beating SPY by +6.2%, vol_ratio 1.12x — growth regime.
+
+Rebalance 2024-11-29:
+  - Sold XLU (Utilities): vol_ratio 1.12x its 1-year average, 6-month return +15.7% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLC (Communication Services): 6-month return +18.9%, beating SPY by +3.9%, vol_ratio 0.92x — growth regime.
+  - Holding XLRE (Real Estate): 6-month return +20.3%, beating SPY by +5.3%, vol_ratio 1.08x — growth regime.
+  - Holding XLF (Financials): 6-month return +24.2%, beating SPY by +9.3%, vol_ratio 1.73x — top-ranked on momentum and relative strength.
+
+Rebalance 2024-12-31:
+  - Holding XLU (Utilities): 6-month return +13.0%, beating SPY by +5.5%, vol_ratio 0.85x — growth regime.
+  - Holding XLF (Financials): 6-month return +16.9%, beating SPY by +9.4%, vol_ratio 1.05x — growth regime.
+  - Holding XLI (Industrials): 6-month return +9.6%, beating SPY by +2.2%, vol_ratio 0.96x — growth regime.
+
+Rebalance 2025-01-31:
+  - Sold XLU (Utilities): vol_ratio 1.35x its 1-year average, 6-month return +8.6% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLRE (Real Estate): vol_ratio 1.23x its 1-year average, 6-month return +2.4% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLC (Communication Services): 6-month return +20.0%, beating SPY by +10.0%, vol_ratio 0.80x — growth regime.
+  - Holding XLF (Financials): 6-month return +18.6%, beating SPY by +8.6%, vol_ratio 1.07x — growth regime.
+  - Holding XLI (Industrials): 6-month return +9.1%, trailing SPY by 0.9%, vol_ratio 1.05x — growth regime.
+
+Rebalance 2025-02-28:
+  - Sold XLI (Industrials): vol_ratio 0.87x its 1-year average, 6-month return +6.4% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLF (Financials): 6-month return +17.4%, beating SPY by +10.9%, vol_ratio 0.90x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +17.2%, beating SPY by +10.7%, vol_ratio 0.86x — growth regime.
+  - Holding XLU (Utilities): 6-month return +6.8%, beating SPY by +0.3%, vol_ratio 0.86x — growth regime.
+
+Rebalance 2025-03-31:
+  - Sold XLC (Communication Services): vol_ratio 1.48x its 1-year average, 6-month return +8.4% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLE (Energy): 6-month return +11.1%, beating SPY by +12.8%, vol_ratio 0.95x — growth regime.
+  - Holding XLF (Financials): 6-month return +11.5%, beating SPY by +13.1%, vol_ratio 1.43x — top-ranked on momentum and relative strength.
+  - Holding XLU (Utilities): 6-month return +0.5%, beating SPY by +2.2%, vol_ratio 1.12x — top-ranked on momentum and relative strength.
+
+Rebalance 2025-04-30:
+  - Holding XLU (Utilities): 6-month return -0.3%, beating SPY by +3.3%, vol_ratio 1.78x — top-ranked on momentum and relative strength.
+  - Holding XLP (Consumer Staples): 6-month return +2.3%, beating SPY by +5.9%, vol_ratio 2.03x — top-ranked on momentum and relative strength.
+  - Holding XLC (Communication Services): 6-month return +5.6%, beating SPY by +9.3%, vol_ratio 2.46x — top-ranked on momentum and relative strength.
+
+Rebalance 2025-05-30:
+  - Sold XLE (Energy): vol_ratio 0.75x its 1-year average, 6-month return -13.1% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLU (Utilities): vol_ratio 0.95x its 1-year average, 6-month return +1.9% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLC (Communication Services): 6-month return +4.7%, beating SPY by +5.4%, vol_ratio 0.64x — top-ranked on momentum and relative strength.
+  - Holding XLF (Financials): 6-month return +0.6%, beating SPY by +1.3%, vol_ratio 0.77x — top-ranked on momentum and relative strength.
+  - Holding XLP (Consumer Staples): 6-month return +2.0%, beating SPY by +2.7%, vol_ratio 0.95x — top-ranked on momentum and relative strength.
+
+Rebalance 2025-06-30:
+  - Holding XLI (Industrials): 6-month return +10.6%, beating SPY by +7.3%, vol_ratio 0.53x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +10.0%, beating SPY by +6.7%, vol_ratio 0.69x — growth regime.
+  - Holding XLK (Technology): 6-month return +5.6%, beating SPY by +2.3%, vol_ratio 0.44x — growth regime.
+
+Rebalance 2025-07-31:
+  - Sold XLF (Financials): vol_ratio 0.62x its 1-year average, 6-month return +2.8% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLP (Consumer Staples): vol_ratio 0.73x its 1-year average, 6-month return +2.3% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLK (Technology): 6-month return +13.8%, beating SPY by +8.1%, vol_ratio 0.33x — growth regime.
+  - Holding XLI (Industrials): 6-month return +11.0%, beating SPY by +5.3%, vol_ratio 0.57x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +6.0%, beating SPY by +0.3%, vol_ratio 0.57x — growth regime.
+
+Rebalance 2025-08-29:
+  - Holding XLK (Technology): 6-month return +16.8%, beating SPY by +7.6%, vol_ratio 0.57x — growth regime.
+  - Holding XLI (Industrials): 6-month return +12.2%, beating SPY by +3.0%, vol_ratio 0.57x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +9.8%, beating SPY by +0.6%, vol_ratio 0.65x — growth regime.
+
+Rebalance 2025-09-30:
+  - Holding XLK (Technology): 6-month return +36.9%, beating SPY by +17.1%, vol_ratio 0.43x — growth regime.
+  - Holding XLI (Industrials): 6-month return +18.5%, trailing SPY by 1.3%, vol_ratio 0.54x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +23.5%, beating SPY by +3.7%, vol_ratio 0.61x — growth regime.
+
+Rebalance 2025-10-31:
+  - Sold XLI (Industrials): vol_ratio 0.80x its 1-year average, 6-month return +16.0% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLC (Communication Services): 6-month return +18.5%, trailing SPY by 2.5%, vol_ratio 0.74x — growth regime.
+  - Holding XLK (Technology): 6-month return +39.2%, beating SPY by +18.2%, vol_ratio 0.85x — growth regime.
+  - Holding XLU (Utilities): 6-month return +13.3%, trailing SPY by 7.8%, vol_ratio 0.77x — growth regime.
+
+Rebalance 2025-11-28:
+  - Sold XLU (Utilities): vol_ratio 0.72x its 1-year average, 6-month return +12.2% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLE (Energy): 6-month return +12.8%, trailing SPY by 3.8%, vol_ratio 0.69x — growth regime.
+  - Holding XLK (Technology): 6-month return +24.3%, beating SPY by +7.7%, vol_ratio 0.91x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +14.5%, trailing SPY by 2.1%, vol_ratio 0.74x — growth regime.
+
+Rebalance 2025-12-31:
+  - Sold XLE (Energy): vol_ratio 0.79x its 1-year average, 6-month return +4.6% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLC (Communication Services): 6-month return +10.3%, trailing SPY by 0.2%, vol_ratio 0.42x — growth regime.
+  - Holding XLK (Technology): 6-month return +13.9%, beating SPY by +3.3%, vol_ratio 0.66x — growth regime.
+  - Holding XLV (Health Care): 6-month return +15.4%, beating SPY by +4.8%, vol_ratio 0.71x — growth regime.
+
+Rebalance 2026-01-30:
+  - Sold XLK (Technology): vol_ratio 0.70x its 1-year average, 6-month return +9.8% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLV (Health Care): 6-month return +19.7%, beating SPY by +9.6%, vol_ratio 0.84x — growth regime.
+  - Holding XLC (Communication Services): 6-month return +12.5%, beating SPY by +2.4%, vol_ratio 0.78x — growth regime.
+  - Holding XLB (Materials): 6-month return +13.4%, beating SPY by +3.3%, vol_ratio 0.86x — growth regime.
+
+Rebalance 2026-02-27:
+  - Holding XLV (Health Care): 6-month return +18.0%, beating SPY by +11.3%, vol_ratio 0.78x — growth regime.
+  - Holding XLE (Energy): 6-month return +27.5%, beating SPY by +20.8%, vol_ratio 0.92x — growth regime.
+  - Holding XLI (Industrials): 6-month return +16.5%, beating SPY by +9.8%, vol_ratio 0.78x — growth regime.
+
+Rebalance 2026-03-31:
+  - Sold XLI (Industrials): vol_ratio 1.14x its 1-year average, 6-month return +6.3% — dropped out of the top 3 on momentum / relative strength.
+  - Sold XLC (Communication Services): vol_ratio 0.99x its 1-year average, 6-month return -5.9% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLE (Energy): 6-month return +37.7%, beating SPY by +39.2%, vol_ratio 0.70x — growth regime.
+  - Holding XLV (Health Care): 6-month return +8.8%, beating SPY by +10.2%, vol_ratio 0.93x — growth regime.
+  - Holding XLB (Materials): 6-month return +13.1%, beating SPY by +14.6%, vol_ratio 0.99x — growth regime.
+
+Rebalance 2026-04-30:
+  - Sold XLV (Health Care): vol_ratio 1.03x its 1-year average, 6-month return +1.2% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLB (Materials): 6-month return +16.7%, beating SPY by +11.5%, vol_ratio 0.93x — growth regime.
+  - Holding XLE (Energy): 6-month return +38.6%, beating SPY by +33.4%, vol_ratio 1.21x — top-ranked on momentum and relative strength.
+  - Holding XLK (Technology): 6-month return +5.9%, beating SPY by +0.7%, vol_ratio 0.95x — growth regime.
+
+Rebalance 2026-05-29:
+  - Sold XLB (Materials): vol_ratio 1.22x its 1-year average, 6-month return +17.6% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLK (Technology): 6-month return +36.6%, beating SPY by +23.9%, vol_ratio 1.14x — growth regime.
+  - Holding XLRE (Real Estate): 6-month return +8.4%, trailing SPY by 4.3%, vol_ratio 0.88x — growth regime.
+  - Holding XLE (Energy): 6-month return +29.0%, beating SPY by +16.3%, vol_ratio 1.37x — top-ranked on momentum and relative strength.
+
+Rebalance 2026-06-30:
+  - Sold XLRE (Real Estate): vol_ratio 1.41x its 1-year average, 6-month return +10.4% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLE (Energy): 6-month return +21.8%, beating SPY by +13.1%, vol_ratio 1.08x — growth regime.
+  - Holding XLK (Technology): 6-month return +30.3%, beating SPY by +21.6%, vol_ratio 1.84x — top-ranked on momentum and relative strength.
+  - Holding XLB (Materials): 6-month return +11.1%, beating SPY by +2.4%, vol_ratio 1.30x — top-ranked on momentum and relative strength.
+
+Rebalance 2026-07-31:
+  - Sold XLB (Materials): vol_ratio 1.10x its 1-year average, 6-month return +1.7% — dropped out of the top 3 on momentum / relative strength.
+  - Holding XLE (Energy): 6-month return +19.5%, beating SPY by +11.3%, vol_ratio 0.99x — growth regime.
+  - Holding XLK (Technology): 6-month return +19.7%, beating SPY by +11.5%, vol_ratio 1.29x — top-ranked on momentum and relative strength.
+  - Holding XLF (Financials): 6-month return +7.3%, trailing SPY by 1.0%, vol_ratio 0.92x — growth regime.
+
+Rebalance 2026-08-31:
+  - Holding XLF (Financials): 6-month return +13.5%, beating SPY by +1.1%, vol_ratio 0.69x — growth regime.
+  - Holding XLK (Technology): 6-month return +34.0%, beating SPY by +21.6%, vol_ratio 1.02x — growth regime.
+  - Holding XLE (Energy): 6-month return +13.7%, beating SPY by +1.3%, vol_ratio 1.09x — growth regime.
+
+Rebalance 2026-09-30:
+  - Holding XLK (Technology): 6-month return +47.6%, beating SPY by +29.8%, vol_ratio 0.67x — growth regime.
+  - Holding XLI (Industrials): 6-month return +3.8%, trailing SPY by 14.1%, vol_ratio 0.72x — top-ranked on momentum and relative strength.
+  - Holding XLV (Health Care): 6-month return +15.8%, trailing SPY by 2.0%, vol_ratio 0.87x — growth regime.
+
+Rebalance 2026-10-30:
+  - Holding XLE (Energy): 6-month return +20.6%, beating SPY by +15.2%, vol_ratio 0.98x — growth regime.
+  - Holding XLV (Health Care): 6-month return +28.4%, beating SPY by +23.0%, vol_ratio 1.13x — growth regime.
+  - Holding XLF (Financials): 6-month return +9.6%, beating SPY by +4.2%, vol_ratio 0.88x — growth regime.
